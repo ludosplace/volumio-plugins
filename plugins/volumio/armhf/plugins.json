@@ -304,6 +304,24 @@
 						}
 					],
 					"updated": "18-10-2017"
+				},
+				{
+					"prettyName": "SoundTouchIntegration",
+					"icon": "fa-lightbulb-o",
+					"name": "soundtouchintegration",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/soundtouchintegration/soundtouchintegration.zip",
+					"license": "ISC",
+					"description": "Integrate Bose SoundTouch API Webservices",
+					"details": "SoundTouchAPI",
+					"author": "Ludo Huysmans",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "18-10-2017"
 				}
 			]
 		},
